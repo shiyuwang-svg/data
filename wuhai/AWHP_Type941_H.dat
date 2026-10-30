@@ -1,0 +1,58 @@
+15	20	25	30	35	40	45	52	!T_water_in				
+-15	-10	-5	0	7	15	21		!T_air_in				
+0.592414	0.625305875								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	25
+0.726724	0.65577575								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	25
+0.854734	0.685394125								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	25
+0.976444	0.714161								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	25
+1.136254	0.753004105								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	25
+1.303774	0.795352625								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	30
+1.41883	0.825683495								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	30
+0.571385	0.66918475								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	30
+0.702445	0.69958								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	30
+0.827205	0.72912375								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	30
+0.945665	0.757816								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	35
+1.100925	0.79655463								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	35
+1.263245	0.83878375								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	35
+1.374401	0.86902507								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	35
+0.551462	0.715813625								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	35
+0.679272	0.74613425								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	40
+0.800782	0.775603375								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	40
+0.915992	0.804221								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	40
+1.066702	0.842855155								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	40
+1.223822	0.884964875								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	40
+1.331078	0.915116645								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	45
+0.532645	0.7651925								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	45
+0.657205	0.7954385								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	45
+0.775465	0.824833								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	45
+0.887425	0.853376								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	45
+1.033585	0.89190568								!Fraction capacity and power at T_air =	2.2	deg. C and T_water_in =	50
+1.185505	0.933896								!Fraction capacity and power at T_air =	7.2	deg. C and T_water_in =	50
+1.288861	0.96395822								!Fraction capacity and power at T_air =	12.2	deg. C and T_water_in =	50
+0.514934	0.817321375								!Fraction capacity and power at T_air =	15	deg. C and T_water_in =	50
+0.636244	0.84749275								!Fraction capacity and power at T_air =	20	deg. C and T_water_in =	50
+0.751254	0.876812625											
+0.859964	0.905281											
+1.001574	0.943706205											
+1.148294	0.985577125											
+1.24775	1.015549795											
+0.498329	0.87220025											
+0.616389	0.902297											
+0.728149	0.93154225											
+0.833609	0.959936											
+0.970669	0.99825673											
+1.112189	1.04000825											
+1.207745	1.06989137											
+0.48283	0.929829125											
+0.59764	0.95985125											
+0.70615	0.989021875											
+0.80836	1.017341											
+0.94087	1.055557255											
+1.07719	1.097189375											
+1.168846	1.126982945											
+0.46298948	1.01512955											
+0.57324948	1.0450472											
+0.67720948	1.07411335											
+0.77486948	1.102328											
+0.90100948	1.14039799											
+1.03004948	1.18186295											
+1.11624548	1.21153115											

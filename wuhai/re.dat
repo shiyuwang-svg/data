@@ -1,0 +1,592 @@
+0.5	1	1.5			!Normalized Load Flow Rates				
+0.5	1	1.5			!Normalized Source Flow Rates				
+30	35	40	45	50	55	60			!Entering Load Temperatures (C)
+5	10	15	20	25	30	35			!Entering Source Temperatures (C)
+1.026666666	0.343333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], -1.1111[C]		
+1.133333332	0.376666677						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 4.4444[C]		
+1.239999999	0.410000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 10[C]		
+1.346666665	0.443333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 15.5556[C]		
+1.453333332	0.476666678						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 21.1111[C]		
+1.559999998	0.510000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 26.6667[C]		
+1.666666665	0.543333345						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], -1.1111[C]		
+0.993333332	0.426666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 4.4444[C]		
+1.099999999	0.460000012						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 10[C]		
+1.206666665	0.493333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 15.5556[C]		
+1.313333332	0.526666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 21.1111[C]		
+1.419999998	0.560000013						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 26.6667[C]		
+1.526666665	0.593333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], -1.1111[C]		
+1.633333331	0.62666668						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 4.4444[C]		
+0.959999999	0.510000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 10[C]		
+1.066666665	0.543333347						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 15.5556[C]		
+1.173333332	0.576666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 21.1111[C]		
+1.279999998	0.610000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 26.6667[C]		
+1.386666665	0.643333348						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], -1.1111[C]		
+1.493333331	0.676666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 4.4444[C]		
+1.599999998	0.710000015						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 10[C]		
+0.926666665	0.593333349						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 15.5556[C]		
+1.033333332	0.626666682						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 21.1111[C]		
+1.139999998	0.660000016						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 26.6667[C]		
+1.246666665	0.693333349						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], -1.1111[C]		
+1.353333331	0.726666683						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 4.4444[C]		
+1.459999998	0.760000016						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 10[C]		
+1.566666664	0.79333335						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 15.5556[C]		
+0.893333332	0.676666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 21.1111[C]		
+0.999999998	0.710000017						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 26.6667[C]		
+1.106666665	0.743333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], -1.1111[C]		
+1.213333331	0.776666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 4.4444[C]		
+1.319999998	0.810000018						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 10[C]		
+1.426666664	0.843333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 15.5556[C]		
+1.533333331	0.876666685						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 21.1111[C]		
+0.859999998	0.760000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 26.6667[C]		
+0.966666665	0.793333352						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], -1.1111[C]		
+1.073333331	0.826666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 4.4444[C]		
+1.179999998	0.860000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 10[C]		
+1.286666664	0.893333353						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 15.5556[C]		
+1.393333331	0.926666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 21.1111[C]		
+1.499999997	0.96000002						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 26.6667[C]		
+0.826666665	0.843333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], -1.1111[C]		
+0.933333331	0.876666687						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 4.4444[C]		
+1.039999998	0.910000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 10[C]		
+1.146666664	0.943333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 15.5556[C]		
+1.253333331	0.976666688						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 21.1111[C]		
+1.359999997	1.010000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 26.6667[C]		
+1.466666664	1.043333355						!Normalized Capacity and Normalized Power at 0.5429, 1.2714, 15.556[C], -1.1111[C]		
+1.026666666	0.343333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], -1.1111[C]		
+1.133333332	0.376666677						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 4.4444[C]		
+1.239999999	0.410000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 10[C]		
+1.346666665	0.443333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 15.5556[C]		
+1.453333332	0.476666678						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 21.1111[C]		
+1.559999998	0.510000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 26.6667[C]		
+1.666666665	0.543333345						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], -1.1111[C]		
+0.993333332	0.426666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 4.4444[C]		
+1.099999999	0.460000012						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 10[C]		
+1.206666665	0.493333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 15.5556[C]		
+1.313333332	0.526666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 21.1111[C]		
+1.419999998	0.560000013						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 26.6667[C]		
+1.526666665	0.593333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], -1.1111[C]		
+1.633333331	0.62666668						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 4.4444[C]		
+0.959999999	0.510000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 10[C]		
+1.066666665	0.543333347						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 15.5556[C]		
+1.173333332	0.576666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 21.1111[C]		
+1.279999998	0.610000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 26.6667[C]		
+1.386666665	0.643333348						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], -1.1111[C]		
+1.493333331	0.676666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 4.4444[C]		
+1.599999998	0.710000015						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 10[C]		
+0.926666665	0.593333349						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 15.5556[C]		
+1.033333332	0.626666682						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 21.1111[C]		
+1.139999998	0.660000016						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 26.6667[C]		
+1.246666665	0.693333349						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], -1.1111[C]		
+1.353333331	0.726666683						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 4.4444[C]		
+1.459999998	0.760000016						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 10[C]		
+1.566666664	0.79333335						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 15.5556[C]		
+0.893333332	0.676666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 21.1111[C]		
+0.999999998	0.710000017						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 26.6667[C]		
+1.106666665	0.743333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], -1.1111[C]		
+1.213333331	0.776666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 4.4444[C]		
+1.319999998	0.810000018						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 10[C]		
+1.426666664	0.843333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 15.5556[C]		
+1.533333331	0.876666685						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 21.1111[C]		
+0.859999998	0.760000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 26.6667[C]		
+0.966666665	0.793333352						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], -1.1111[C]		
+1.073333331	0.826666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 4.4444[C]		
+1.179999998	0.860000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 10[C]		
+1.286666664	0.893333353						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 15.5556[C]		
+1.393333331	0.926666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 21.1111[C]		
+1.499999997	0.96000002						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 26.6667[C]		
+0.826666665	0.843333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], -1.1111[C]		
+0.933333331	0.876666687						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 4.4444[C]		
+1.039999998	0.910000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 10[C]		
+1.146666664	0.943333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 15.5556[C]		
+1.253333331	0.976666688						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 21.1111[C]		
+1.359999997	1.010000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 26.6667[C]		
+1.466666664	1.043333355						!Normalized Capacity and Normalized Power at 0.5429, 1.2714, 15.556[C], -1.1111[C]		
+1.026666666	0.343333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], -1.1111[C]		
+1.133333332	0.376666677						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 4.4444[C]		
+1.239999999	0.410000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 10[C]		
+1.346666665	0.443333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 15.5556[C]		
+1.453333332	0.476666678						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 21.1111[C]		
+1.559999998	0.510000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 26.6667[C]		
+1.666666665	0.543333345						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], -1.1111[C]		
+0.993333332	0.426666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 4.4444[C]		
+1.099999999	0.460000012						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 10[C]		
+1.206666665	0.493333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 15.5556[C]		
+1.313333332	0.526666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 21.1111[C]		
+1.419999998	0.560000013						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 26.6667[C]		
+1.526666665	0.593333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], -1.1111[C]		
+1.633333331	0.62666668						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 4.4444[C]		
+0.959999999	0.510000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 10[C]		
+1.066666665	0.543333347						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 15.5556[C]		
+1.173333332	0.576666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 21.1111[C]		
+1.279999998	0.610000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 26.6667[C]		
+1.386666665	0.643333348						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], -1.1111[C]		
+1.493333331	0.676666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 4.4444[C]		
+1.599999998	0.710000015						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 10[C]		
+0.926666665	0.593333349						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 15.5556[C]		
+1.033333332	0.626666682						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 21.1111[C]		
+1.139999998	0.660000016						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 26.6667[C]		
+1.246666665	0.693333349						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], -1.1111[C]		
+1.353333331	0.726666683						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 4.4444[C]		
+1.459999998	0.760000016						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 10[C]		
+1.566666664	0.79333335						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 15.5556[C]		
+0.893333332	0.676666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 21.1111[C]		
+0.999999998	0.710000017						!Normalized Capacity and Normalized Power at 0.5429, 1, 15.556[C], 26.6667[C]		
+1.106666665	0.743333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], -1.1111[C]		
+1.213333331	0.776666684						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 4.4444[C]		
+1.319999998	0.810000018						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 10[C]		
+1.426666664	0.843333351						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 15.5556[C]		
+1.533333331	0.876666685						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 21.1111[C]		
+0.859999998	0.760000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 26.6667[C], 26.6667[C]		
+0.966666665	0.793333352						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], -1.1111[C]		
+1.073333331	0.826666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 4.4444[C]		
+1.179999998	0.860000019						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 10[C]		
+1.286666664	0.893333353						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 15.5556[C]		
+1.393333331	0.926666686						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 21.1111[C]		
+1.499999997	0.96000002						!Normalized Capacity and Normalized Power at 0.5429, 1, 37.7778[C], 26.6667[C]		
+0.826666665	0.843333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], -1.1111[C]		
+0.933333331	0.876666687						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 4.4444[C]		
+1.039999998	0.910000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 10[C]		
+1.146666664	0.943333354						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 15.5556[C]		
+1.253333331	0.976666688						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 21.1111[C]		
+1.359999997	1.010000021						!Normalized Capacity and Normalized Power at 0.5429, 1, 48.8889[C], 26.6667[C]		
+1.466666664	1.043333355						!Normalized Capacity and Normalized Power at 0.5429, 1.2714, 15.556[C], -1.1111[C]		
+1.026666666	0.343333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], -1.1111[C]		
+1.133333332	0.376666677						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 4.4444[C]		
+1.239999999	0.410000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 10[C]		
+1.346666665	0.443333344						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 15.5556[C]		
+1.453333332	0.476666678						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 21.1111[C]		
+1.559999998	0.510000011						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 15.556[C], 26.6667[C]		
+1.666666665	0.543333345						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], -1.1111[C]		
+0.993333332	0.426666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 4.4444[C]		
+1.099999999	0.460000012						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 10[C]		
+1.206666665	0.493333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 15.5556[C]		
+1.313333332	0.526666679						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 21.1111[C]		
+1.419999998	0.560000013						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 26.6667[C], 26.6667[C]		
+1.526666665	0.593333346						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], -1.1111[C]		
+1.633333331	0.62666668						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 4.4444[C]		
+0.959999999	0.510000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 10[C]		
+1.066666665	0.543333347						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 15.5556[C]		
+1.173333332	0.576666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 21.1111[C]		
+1.279999998	0.610000014						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 37.7778[C], 26.6667[C]		
+1.386666665	0.643333348						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], -1.1111[C]		
+1.493333331	0.676666681						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 4.4444[C]		
+1.599999998	0.710000015						!Normalized Capacity and Normalized Power at 0.5429, 0.5429, 48.8889[C], 10[C]		
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+1.026666666	0.343333344								
+1.133333332	0.376666677								
+1.239999999	0.410000011								
+1.346666665	0.443333344								
+1.453333332	0.476666678								
+1.559999998	0.510000011								
+1.666666665	0.543333345								
+0.993333332	0.426666679								
+1.099999999	0.460000012								
+1.206666665	0.493333346								
+1.313333332	0.526666679								
+1.419999998	0.560000013								
+1.526666665	0.593333346								
+1.633333331	0.62666668								
+0.959999999	0.510000014								
+1.066666665	0.543333347								
+1.173333332	0.576666681								
+1.279999998	0.610000014								
+1.386666665	0.643333348								
+1.493333331	0.676666681								
+1.599999998	0.710000015								
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+1.026666666	0.343333344								
+1.133333332	0.376666677								
+1.239999999	0.410000011								
+1.346666665	0.443333344								
+1.453333332	0.476666678								
+1.559999998	0.510000011								
+1.666666665	0.543333345								
+0.993333332	0.426666679								
+1.099999999	0.460000012								
+1.206666665	0.493333346								
+1.313333332	0.526666679								
+1.419999998	0.560000013								
+1.526666665	0.593333346								
+1.633333331	0.62666668								
+0.959999999	0.510000014								
+1.066666665	0.543333347								
+1.173333332	0.576666681								
+1.279999998	0.610000014								
+1.386666665	0.643333348								
+1.493333331	0.676666681								
+1.599999998	0.710000015								
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+1.026666666	0.343333344								
+1.133333332	0.376666677								
+1.239999999	0.410000011								
+1.346666665	0.443333344								
+1.453333332	0.476666678								
+1.559999998	0.510000011								
+1.666666665	0.543333345								
+0.993333332	0.426666679								
+1.099999999	0.460000012								
+1.206666665	0.493333346								
+1.313333332	0.526666679								
+1.419999998	0.560000013								
+1.526666665	0.593333346								
+1.633333331	0.62666668								
+0.959999999	0.510000014								
+1.066666665	0.543333347								
+1.173333332	0.576666681								
+1.279999998	0.610000014								
+1.386666665	0.643333348								
+1.493333331	0.676666681								
+1.599999998	0.710000015								
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+1.026666666	0.343333344								
+1.133333332	0.376666677								
+1.239999999	0.410000011								
+1.346666665	0.443333344								
+1.453333332	0.476666678								
+1.559999998	0.510000011								
+1.666666665	0.543333345								
+0.993333332	0.426666679								
+1.099999999	0.460000012								
+1.206666665	0.493333346								
+1.313333332	0.526666679								
+1.419999998	0.560000013								
+1.526666665	0.593333346								
+1.633333331	0.62666668								
+0.959999999	0.510000014								
+1.066666665	0.543333347								
+1.173333332	0.576666681								
+1.279999998	0.610000014								
+1.386666665	0.643333348								
+1.493333331	0.676666681								
+1.599999998	0.710000015								
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+1.026666666	0.343333344								
+1.133333332	0.376666677								
+1.239999999	0.410000011								
+1.346666665	0.443333344								
+1.453333332	0.476666678								
+1.559999998	0.510000011								
+1.666666665	0.543333345								
+0.993333332	0.426666679								
+1.099999999	0.460000012								
+1.206666665	0.493333346								
+1.313333332	0.526666679								
+1.419999998	0.560000013								
+1.526666665	0.593333346								
+1.633333331	0.62666668								
+0.959999999	0.510000014								
+1.066666665	0.543333347								
+1.173333332	0.576666681								
+1.279999998	0.610000014								
+1.386666665	0.643333348								
+1.493333331	0.676666681								
+1.599999998	0.710000015								
+0.926666665	0.593333349								
+1.033333332	0.626666682								
+1.139999998	0.660000016								
+1.246666665	0.693333349								
+1.353333331	0.726666683								
+1.459999998	0.760000016								
+1.566666664	0.79333335								
+0.893333332	0.676666684								
+0.999999998	0.710000017								
+1.106666665	0.743333351								
+1.213333331	0.776666684								
+1.319999998	0.810000018								
+1.426666664	0.843333351								
+1.533333331	0.876666685								
+0.859999998	0.760000019								
+0.966666665	0.793333352								
+1.073333331	0.826666686								
+1.179999998	0.860000019								
+1.286666664	0.893333353								
+1.393333331	0.926666686								
+1.499999997	0.96000002								
+0.826666665	0.843333354								
+0.933333331	0.876666687								
+1.039999998	0.910000021								
+1.146666664	0.943333354								
+1.253333331	0.976666688								
+1.359999997	1.010000021								
+1.466666664	1.043333355								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
